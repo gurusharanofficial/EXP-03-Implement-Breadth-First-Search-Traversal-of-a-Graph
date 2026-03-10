@@ -136,6 +136,7 @@ print(output)
 ```
 
 **Sample Input :**
+
 ```
 5 6 
 0 1 
@@ -147,6 +148,7 @@ print(output)
 ```
 
 **Sample Output:**
+
 ```
 ['0', '1', '2', '3', '4']
 ```
@@ -154,6 +156,7 @@ print(output)
 **Output:**
 
 <img width="525" height="280" alt="image" src="https://github.com/user-attachments/assets/8133bac2-ae70-45c1-a031-565780706d5f" />
+
 
 **Result:**
 
